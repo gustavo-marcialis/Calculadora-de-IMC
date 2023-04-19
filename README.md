@@ -14,7 +14,7 @@
   
   - index.html: Este arquivo contém a estrutura HTML do projeto, incluindo os elementos de formulário e as tags de script para vincular o arquivo JavaScript.
   - style.css: Este arquivo contém uma folha de estilo CSS para o projeto. Ele inclui estilos para o layout do projeto, incluindo cores, fontes, tamanhos de texto e outros elementos de design.
-  - script.js: Este arquivo contém o código JavaScript que executa o calculador do tempo de série.
+  - script.js: Este arquivo contém o código JavaScript que executa o calculadora de IMC.
   
   
  ## ☕ Usando a Calculadora de IMC
